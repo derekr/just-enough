@@ -6,7 +6,7 @@ It's also kind of great! Not so much the software itself is great, but the
 problems it can solve are great. The delight it can bring to someone is great. 
 The act of creation is great.
 
-I've written a lot of bad software in my seven years as a profressional 
+I've written a lot of bad software in my seven years as a professional 
 (relative term) and am only just now starting to return the basics and really 
 beginning to learn.
 
